@@ -1,0 +1,150 @@
+D:\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe.config
+D:\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csprojResolveAssemblyReference.cache
+D:\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangNhap.resources
+D:\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.Properties.Resources.resources
+D:\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csproj.GenerateResource.Cache
+D:\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe
+D:\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.pdb
+D:\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.exe
+D:\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.pdb
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe.config
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.exe
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.pdb
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.pdb
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csprojResolveAssemblyReference.cache
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangNhap.resources
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.Properties.Resources.resources
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csproj.GenerateResource.Cache
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmGiaoDienChinh.resources
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLSach.resources
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmBaoCaoThongKe.resources
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLDocGia.resources
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLMuonTra.resources
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLTacGia.resources
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLNhaXuatBan.resources
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDoiMatKhau.resources
+D:\N3 LT Windown\DinhCan\QLTV\PhanMemQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangKy.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe.config
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.exe
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.pdb
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.pdb
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csprojResolveAssemblyReference.cache
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmBaoCaoThongKe.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangKy.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangNhap.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDoiMatKhau.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmGiaoDienChinh.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLDocGia.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLMuonTra.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLNhaXuatBan.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLSach.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLTacGia.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.Properties.Resources.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\Quan Ly Thu Vien (Can,Hai)\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csproj.GenerateResource.Cache
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe.config
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.exe
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.pdb
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.pdb
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csprojResolveAssemblyReference.cache
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmBaoCaoThongKe.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangKy.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangNhap.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDoiMatKhau.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmGiaoDienChinh.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLDocGia.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLMuonTra.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLNhaXuatBan.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLSach.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLTacGia.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.Properties.Resources.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csproj.GenerateResource.Cache
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangKyTT.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDocGia.resources
+C:\Users\DinhCan\Desktop\BTL_MHHDL\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDoiMKDG.resources
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe.config
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.exe
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.pdb
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.pdb
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csprojResolveAssemblyReference.cache
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmBaoCaoThongKe.resources
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangKy.resources
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangKyTT.resources
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangNhap.resources
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDocGia.resources
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDoiMatKhau.resources
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDoiMKDG.resources
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmGiaoDienChinh.resources
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLDocGia.resources
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLMuonTra.resources
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLSach.resources
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.Properties.Resources.resources
+E:\MHHDL\MHHDL_DoAnQLTV\MHHDL_DoAnQLTV\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csproj.GenerateResource.Cache
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe.config
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.exe
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.pdb
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.pdb
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csprojResolveAssemblyReference.cache
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmBaoCaoThongKe.resources
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangKy.resources
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangKyTT.resources
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangNhap.resources
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDocGia.resources
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDoiMatKhau.resources
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDoiMKDG.resources
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmGiaoDienChinh.resources
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLDocGia.resources
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLMuonTra.resources
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLSach.resources
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.Properties.Resources.resources
+E:\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csproj.GenerateResource.Cache
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe.config
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.exe
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.pdb
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.pdb
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csprojResolveAssemblyReference.cache
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmBaoCaoThongKe.resources
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangKy.resources
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangKyTT.resources
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangNhap.resources
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDocGia.resources
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDoiMatKhau.resources
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDoiMKDG.resources
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmGiaoDienChinh.resources
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLDocGia.resources
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLMuonTra.resources
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLSach.resources
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.Properties.Resources.resources
+E:\HOCTAP\MHHDL\BaoCao\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csproj.GenerateResource.Cache
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe.config
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.exe
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\bin\Debug\PhanMemQLTV.pdb
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csproj.AssemblyReference.cache
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csproj.SuggestedBindingRedirects.cache
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmBaoCaoThongKe.resources
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangKy.resources
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangKyTT.resources
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDangNhap.resources
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDocGia.resources
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDoiMatKhau.resources
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmDoiMKDG.resources
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmGiaoDienChinh.resources
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLDocGia.resources
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLMuonTra.resources
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.frmQLSach.resources
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.Properties.Resources.resources
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csproj.GenerateResource.cache
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csproj.CoreCompileInputs.cache
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.exe
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.pdb
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\18DT3\cnpm\PhanMemQLTV\PhanMemQLTV\obj\Debug\PhanMemQLTV.csproj.CopyComplete
